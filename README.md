@@ -1,7 +1,3 @@
-The bookApi folder contains the main program which runs by default on port 9090. The program in the Desafio01 folder
-uses port 8080 and contains the final version of the program with its respective validations.
+The program is a basic crud that allows to manage books through postman commands, this application allows to add a book, list all books, search a book by its title and delete a book by its ID.
 
-The program is a basic crud using postman commands and works as follows: a book is added, then all the books that have
-been added are listed, you can also search for a book by its title and delete a book by its ID.
-
-All functionalities were validated by testing in Postman.
+We also implemented some validations to improve the search for a book by assuring a precise answer input, all the functionalities were validated by testing in Postman.
